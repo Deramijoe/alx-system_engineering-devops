@@ -1,1 +1,1 @@
-a scripr thst counts the numbee of directories in a path
+a sript that create a global variable
